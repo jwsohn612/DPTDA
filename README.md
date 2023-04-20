@@ -13,8 +13,10 @@ In this work, we introduce privatizing a persistence diagram on the basis of the
 Refer to 'example.pdf' for testing the proposed method. 
 
 ## Required Configuration
--- R >= 4.2.1
--- Packages : TDA, dplyr, purrr 
+
+- R >= 4.2.1
+
+- Packages : TDA, dplyr, purrr 
 
 
 
